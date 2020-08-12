@@ -1,7 +1,7 @@
-- I'm an animal scientist.
-- The CEO of antller Inc.
-- Working on KU as a research professor.
-- This is my [curriculum vitae](https://github.com/YoungjunNa/CV_YoungjunNa/blob/master/README.md)
+- Animal scientist.
+- CEO (antller Inc.)
+- Research professor (KU)
+- [Curriculum vitae](https://github.com/YoungjunNa/CV_YoungjunNa/blob/master/README.md)👈
 
 <!--
 **YoungjunNa/youngjunna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
