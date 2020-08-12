@@ -1,4 +1,7 @@
-### Hi there 👋
+- I'm an animal scientist.
+- Currently working on Konkuk Univ. as a research professor.
+- The CEO of antller Inc.
+- This is my [CV](https://github.com/YoungjunNa/CV_YoungjunNa/blob/master/README.md)
 
 <!--
 **YoungjunNa/youngjunna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
