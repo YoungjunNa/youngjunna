@@ -1,6 +1,6 @@
 - I'm an animal scientist.
-- Working on Konkuk Univ. as a research professor.
 - The CEO of antller Inc.
+- Working on KU as a research professor.
 - This is my [curriculum vitae](https://github.com/YoungjunNa/CV_YoungjunNa/blob/master/README.md)
 
 <!--
