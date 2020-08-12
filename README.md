@@ -1,7 +1,7 @@
-- Animal scientist.
+- Animal Scientist.
 - CEO (antller Inc.)
-- Research professor (KU)
-- [Curriculum vitae](https://github.com/YoungjunNa/CV_YoungjunNa/blob/master/README.md)👈
+- Research Professor (KU)
+- [Curriculum Vitae](https://github.com/YoungjunNa/CV_YoungjunNa/blob/master/README.md)👈
 
 <!--
 **YoungjunNa/youngjunna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
