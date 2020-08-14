@@ -1,6 +1,6 @@
-- Animal Scientist.
+- Animal Scientist
 - CEO (antller Inc.)
-- Research Professor (KU)
+- Research Professor (Konkuk University)
 - [Curriculum Vitae](https://github.com/YoungjunNa/CV_YoungjunNa/blob/master/README.md)👈
 
 <!--
