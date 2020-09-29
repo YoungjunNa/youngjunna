@@ -1,4 +1,4 @@
-- Animal Scientist 🐷🐮🐶🐔
-- Research Professor @Konkuk
-- CEO @antller 
+- Animal scientist 🐷🐮🐶🐔
+- Research professor [@konkuk](http://anis.konkuk.ac.kr/)
+- CEO [@antller](http://antller.com/) 
 - [CV](https://github.com/YoungjunNa/CV_YoungjunNa/blob/master/README.md) / [Interview](https://krive.konkuk.ac.kr/42)
