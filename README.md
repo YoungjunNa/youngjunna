@@ -1,4 +1,4 @@
 - Animal Scientist 🐷🐮🐶🐔
-- Research Professor [@konkuk](http://anis.konkuk.ac.kr/)
+- Research Professor [@Konkuk Univ.](http://anis.konkuk.ac.kr/)
 - CEO [@antller](http://antller.com/) 
 - [This](https://github.com/YoungjunNa/CV_YoungjunNa/blob/master/README.md) is my curriculum vitae.
